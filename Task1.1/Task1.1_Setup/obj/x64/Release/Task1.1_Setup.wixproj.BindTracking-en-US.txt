@@ -1,4 +1,0 @@
-BuiltPdbOutput	C:\Users\user\SWE40006\Task1.1\Task1.1_Setup\obj\x64\Release\en-US\Task1.1_Setup.wixpdb
-BuiltTargetOutput	C:\Users\user\SWE40006\Task1.1\Task1.1_Setup\obj\x64\Release\en-US\Task1.1_Setup.msi
-Input	C:\Users\user\SWE40006\Task1.1\Task1.1\bin\Release\net8.0-windows\Task1.1.exe
-Intermediate	C:\Users\user\SWE40006\Task1.1\Task1.1_Setup\obj\x64\Release\en-US\#cab1.cab

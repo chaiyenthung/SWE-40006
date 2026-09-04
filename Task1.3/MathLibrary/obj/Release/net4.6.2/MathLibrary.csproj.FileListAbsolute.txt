@@ -1,5 +1,0 @@
-C:\Users\user\SWE40006\Task1.3\MathLibrary\obj\Release\net4.6.2\MathLibrary.csproj.AssemblyReference.cache
-C:\Users\user\SWE40006\Task1.3\MathLibrary\obj\Release\net4.6.2\MathLibrary.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\user\SWE40006\Task1.3\MathLibrary\obj\Release\net4.6.2\MathLibrary.AssemblyInfoInputs.cache
-C:\Users\user\SWE40006\Task1.3\MathLibrary\obj\Release\net4.6.2\MathLibrary.AssemblyInfo.cs
-C:\Users\user\SWE40006\Task1.3\MathLibrary\obj\Release\net4.6.2\MathLibrary.csproj.CoreCompileInputs.cache

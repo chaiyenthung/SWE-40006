@@ -1,9 +1,0 @@
-C:\Users\user\SWE40006\Task1.3\FormattingLibrary\obj\Release\net4.6.2\FormattingLibrary.csproj.AssemblyReference.cache
-C:\Users\user\SWE40006\Task1.3\FormattingLibrary\obj\Release\net4.6.2\FormattingLibrary.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\user\SWE40006\Task1.3\FormattingLibrary\obj\Release\net4.6.2\FormattingLibrary.AssemblyInfoInputs.cache
-C:\Users\user\SWE40006\Task1.3\FormattingLibrary\obj\Release\net4.6.2\FormattingLibrary.AssemblyInfo.cs
-C:\Users\user\SWE40006\Task1.3\FormattingLibrary\obj\Release\net4.6.2\FormattingLibrary.csproj.CoreCompileInputs.cache
-C:\Users\user\SWE40006\Task1.3\FormattingLibrary\bin\Release\net4.6.2\FormattingLibrary.dll
-C:\Users\user\SWE40006\Task1.3\FormattingLibrary\bin\Release\net4.6.2\FormattingLibrary.pdb
-C:\Users\user\SWE40006\Task1.3\FormattingLibrary\obj\Release\net4.6.2\FormattingLibrary.dll
-C:\Users\user\SWE40006\Task1.3\FormattingLibrary\obj\Release\net4.6.2\FormattingLibrary.pdb
