@@ -1,0 +1,11 @@
+C:\Users\user\SWE40006\Task1.3\FormattingLibrary\bin\Release\net8.0\FormattingLibrary.deps.json
+C:\Users\user\SWE40006\Task1.3\FormattingLibrary\bin\Release\net8.0\FormattingLibrary.dll
+C:\Users\user\SWE40006\Task1.3\FormattingLibrary\bin\Release\net8.0\FormattingLibrary.pdb
+C:\Users\user\SWE40006\Task1.3\FormattingLibrary\obj\Release\net8.0\FormattingLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\SWE40006\Task1.3\FormattingLibrary\obj\Release\net8.0\FormattingLibrary.AssemblyInfoInputs.cache
+C:\Users\user\SWE40006\Task1.3\FormattingLibrary\obj\Release\net8.0\FormattingLibrary.AssemblyInfo.cs
+C:\Users\user\SWE40006\Task1.3\FormattingLibrary\obj\Release\net8.0\FormattingLibrary.csproj.CoreCompileInputs.cache
+C:\Users\user\SWE40006\Task1.3\FormattingLibrary\obj\Release\net8.0\FormattingLibrary.dll
+C:\Users\user\SWE40006\Task1.3\FormattingLibrary\obj\Release\net8.0\refint\FormattingLibrary.dll
+C:\Users\user\SWE40006\Task1.3\FormattingLibrary\obj\Release\net8.0\FormattingLibrary.pdb
+C:\Users\user\SWE40006\Task1.3\FormattingLibrary\obj\Release\net8.0\ref\FormattingLibrary.dll

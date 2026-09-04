@@ -1,0 +1,9 @@
+C:\Users\user\SWE40006\Task1.3\CertificateGenerator\bin\Release\net462\ResultGenerator.dll
+C:\Users\user\SWE40006\Task1.3\CertificateGenerator\bin\Release\net462\ResultGenerator.pdb
+C:\Users\user\SWE40006\Task1.3\CertificateGenerator\obj\Release\net462\ResultGenerator.csproj.AssemblyReference.cache
+C:\Users\user\SWE40006\Task1.3\CertificateGenerator\obj\Release\net462\ResultGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\SWE40006\Task1.3\CertificateGenerator\obj\Release\net462\ResultGenerator.AssemblyInfoInputs.cache
+C:\Users\user\SWE40006\Task1.3\CertificateGenerator\obj\Release\net462\ResultGenerator.AssemblyInfo.cs
+C:\Users\user\SWE40006\Task1.3\CertificateGenerator\obj\Release\net462\ResultGenerator.csproj.CoreCompileInputs.cache
+C:\Users\user\SWE40006\Task1.3\CertificateGenerator\obj\Release\net462\ResultGenerator.dll
+C:\Users\user\SWE40006\Task1.3\CertificateGenerator\obj\Release\net462\ResultGenerator.pdb

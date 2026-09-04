@@ -1,0 +1,11 @@
+<Wix xmlns="http://wixtoolset.org/schemas/v4/wxs">
+  <Fragment>
+    <ComponentGroup Id="ExampleComponents" Directory="INSTALLFOLDER">
+		<Component Id="MainExecutable" Guid="32a5df9b-4352-472b-be25-1e43fe2bf57b">
+			<File Id="Task1.2EXE"
+				  Source="C:\Users\user\SWE40006\Task1.2\Task1.2\bin\Release\net8.0-windows\Task1.2.exe"
+				  KeyPath="yes" />
+		</Component>
+    </ComponentGroup>
+  </Fragment>
+</Wix>

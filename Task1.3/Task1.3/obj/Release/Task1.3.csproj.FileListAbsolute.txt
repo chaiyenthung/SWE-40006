@@ -1,0 +1,5 @@
+C:\Users\user\SWE40006\Task1.3\Task1.3\obj\Release\Task1.3.csproj.AssemblyReference.cache
+C:\Users\user\SWE40006\Task1.3\Task1.3\obj\Release\Task1._3.Calculator.resources
+C:\Users\user\SWE40006\Task1.3\Task1.3\obj\Release\Task1._3.Properties.Resources.resources
+C:\Users\user\SWE40006\Task1.3\Task1.3\obj\Release\Task1.3.csproj.GenerateResource.cache
+C:\Users\user\SWE40006\Task1.3\Task1.3\obj\Release\Task1.3.csproj.CoreCompileInputs.cache
