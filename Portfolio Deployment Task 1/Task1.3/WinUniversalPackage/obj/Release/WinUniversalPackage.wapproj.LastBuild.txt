@@ -1,0 +1,15 @@
+C:\Users\user\SWE40006\Task1.3\WinUniversalPackage\Images\SplashScreen.scale-200.png
+C:\Users\user\SWE40006\Task1.3\WinUniversalPackage\Images\LockScreenLogo.scale-200.png
+C:\Users\user\SWE40006\Task1.3\WinUniversalPackage\Images\Square150x150Logo.scale-200.png
+C:\Users\user\SWE40006\Task1.3\WinUniversalPackage\Images\Square44x44Logo.scale-200.png
+C:\Users\user\SWE40006\Task1.3\WinUniversalPackage\Images\Square44x44Logo.targetsize-24_altform-unplated.png
+C:\Users\user\SWE40006\Task1.3\WinUniversalPackage\Images\StoreLogo.png
+C:\Users\user\SWE40006\Task1.3\WinUniversalPackage\Images\Wide310x150Logo.scale-200.png
+C:\Users\user\SWE40006\Task1.3\WinUniversalPackage\bin\AnyCPU\Release\resources.pri
+C:\Users\user\SWE40006\Task1.3\MarkingRules\bin\Release\net462\MarkingRules.dll
+C:\Users\user\SWE40006\Task1.3\ResultGenerator\bin\Release\net462\ResultGenerator.dll
+C:\Users\user\SWE40006\Task1.3\MarkingRules\bin\Release\net462\MarkingRules.pdb
+C:\Users\user\SWE40006\Task1.3\ResultGenerator\bin\Release\net462\ResultGenerator.pdb
+C:\Users\user\SWE40006\Task1.3\Task1.3\bin\Release\Task1.3.exe
+C:\Users\user\SWE40006\Task1.3\Task1.3\bin\Release\Task1.3.exe.config
+C:\Users\user\SWE40006\Task1.3\Task1.3\bin\Release\Task1.3.pdb

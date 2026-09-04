@@ -1,0 +1,1 @@
+C:\Users\user\SWE40006\Task1.3\WinUniversalPackage\AppPackages\WinUniversalPackage_1.0.3.0_Test\WinUniversalPackage_1.0.3.0_AnyCPU.msixbundle

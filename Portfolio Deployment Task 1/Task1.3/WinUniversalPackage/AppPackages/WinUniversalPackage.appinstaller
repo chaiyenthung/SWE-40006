@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AppInstaller
+	Uri="file:///C:/Users/user/SWE40006/Task1.3/WinUniversalPackage/bin/AnyCPU/Release/WinUniversalPackage.appinstaller"
+	Version="1.0.3.0" xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2">
+	<MainBundle
+		Name="ff4d3c5d-6ac3-4cb1-b878-1cc801081c3a"
+		Version="1.0.3.0"
+		Publisher="CN=Chai Yen Thung"
+		Uri="file:///C:/Users/user/SWE40006/Task1.3/WinUniversalPackage/bin/AnyCPU/Release/WinUniversalPackage_1.0.3.0_Test/WinUniversalPackage_1.0.3.0_AnyCPU.msixbundle" />
+	<UpdateSettings>
+		<OnLaunch
+			HoursBetweenUpdateChecks="0" />
+	</UpdateSettings>
+</AppInstaller>

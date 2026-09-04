@@ -1,0 +1,16 @@
+C:\Users\user\SWE40006\Task1.3\Task1.3\bin\Release\Task1.3.exe.config
+C:\Users\user\SWE40006\Task1.3\Task1.3\bin\Release\Task1.3.exe
+C:\Users\user\SWE40006\Task1.3\Task1.3\bin\Release\Task1.3.pdb
+C:\Users\user\SWE40006\Task1.3\Task1.3\bin\Release\MarkingRules.dll
+C:\Users\user\SWE40006\Task1.3\Task1.3\bin\Release\ResultGenerator.dll
+C:\Users\user\SWE40006\Task1.3\Task1.3\bin\Release\MarkingRules.pdb
+C:\Users\user\SWE40006\Task1.3\Task1.3\bin\Release\ResultGenerator.pdb
+C:\Users\user\SWE40006\Task1.3\Task1.3\obj\Release\Task1.3.csproj.AssemblyReference.cache
+C:\Users\user\SWE40006\Task1.3\Task1.3\obj\Release\Task1._3.Form1.resources
+C:\Users\user\SWE40006\Task1.3\Task1.3\obj\Release\Task1._3.Properties.Resources.resources
+C:\Users\user\SWE40006\Task1.3\Task1.3\obj\Release\Task1.3.csproj.GenerateResource.cache
+C:\Users\user\SWE40006\Task1.3\Task1.3\obj\Release\Task1.3.csproj.CoreCompileInputs.cache
+C:\Users\user\SWE40006\Task1.3\Task1.3\obj\Release\Task1.3.csproj.Up2Date
+C:\Users\user\SWE40006\Task1.3\Task1.3\obj\Release\Task1.3.exe
+C:\Users\user\SWE40006\Task1.3\Task1.3\obj\Release\Task1.3.pdb
+C:\Users\user\SWE40006\Task1.3\Task1.3\obj\Release\Task1.3.exe.config

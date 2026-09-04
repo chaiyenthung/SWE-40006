@@ -1,0 +1,244 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\SWE40006\\Task1.3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B504CCB3-3C5B-4AC5-9469-EAED10CB6340}|WinUniversalPackage\\WinUniversalPackage.wapproj|c:\\users\\user\\swe40006\\task1.3\\winuniversalpackage\\winuniversalpackage.wapproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B504CCB3-3C5B-4AC5-9469-EAED10CB6340}|WinUniversalPackage\\WinUniversalPackage.wapproj|solutionrelative:winuniversalpackage\\winuniversalpackage.wapproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B504CCB3-3C5B-4AC5-9469-EAED10CB6340}|WinUniversalPackage\\WinUniversalPackage.wapproj|c:\\users\\user\\swe40006\\task1.3\\winuniversalpackage\\package.appxmanifest||{4D47164B-07B6-4A52-A855-728D6A2E2AA3}",
+      "RelativeMoniker": "D:0:0:{B504CCB3-3C5B-4AC5-9469-EAED10CB6340}|WinUniversalPackage\\WinUniversalPackage.wapproj|solutionrelative:winuniversalpackage\\package.appxmanifest||{4D47164B-07B6-4A52-A855-728D6A2E2AA3}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBCA4951-2406-4F02-821C-A145C2459EAB}|ResultGenerator\\ResultGenerator.csproj|c:\\users\\user\\swe40006\\task1.3\\resultgenerator\\resultgenerator.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DBCA4951-2406-4F02-821C-A145C2459EAB}|ResultGenerator\\ResultGenerator.csproj|solutionrelative:resultgenerator\\resultgenerator.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE72FC63-357F-404F-A1B7-25CB0C7BE7D1}|Task1.3_Setup\\Task1.3_Setup.wixproj|c:\\users\\user\\swe40006\\task1.3\\task1.3_setup\\package.wxs||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{AE72FC63-357F-404F-A1B7-25CB0C7BE7D1}|Task1.3_Setup\\Task1.3_Setup.wixproj|solutionrelative:task1.3_setup\\package.wxs||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE72FC63-357F-404F-A1B7-25CB0C7BE7D1}|Task1.3_Setup\\Task1.3_Setup.wixproj|c:\\users\\user\\swe40006\\task1.3\\task1.3_setup\\folders.wxs||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{AE72FC63-357F-404F-A1B7-25CB0C7BE7D1}|Task1.3_Setup\\Task1.3_Setup.wixproj|solutionrelative:task1.3_setup\\folders.wxs||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE72FC63-357F-404F-A1B7-25CB0C7BE7D1}|Task1.3_Setup\\Task1.3_Setup.wixproj|c:\\users\\user\\swe40006\\task1.3\\task1.3_setup\\examplecomponents.wxs||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{AE72FC63-357F-404F-A1B7-25CB0C7BE7D1}|Task1.3_Setup\\Task1.3_Setup.wixproj|solutionrelative:task1.3_setup\\examplecomponents.wxs||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE72FC63-357F-404F-A1B7-25CB0C7BE7D1}|Task1.3_Setup\\Task1.3_Setup.wixproj|c:\\users\\user\\swe40006\\task1.3\\task1.3_setup\\task1.3_setup.wixproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AE72FC63-357F-404F-A1B7-25CB0C7BE7D1}|Task1.3_Setup\\Task1.3_Setup.wixproj|solutionrelative:task1.3_setup\\task1.3_setup.wixproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F938D8A-9D6B-449D-8D29-D67A56F68364}|Task1.3\\Task1.3.csproj|C:\\Users\\user\\SWE40006\\Task1.3\\task1.3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F938D8A-9D6B-449D-8D29-D67A56F68364}|Task1.3\\Task1.3.csproj|solutionrelative:task1.3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBCA4951-2406-4F02-821C-A145C2459EAB}|ResultGenerator\\ResultGenerator.csproj|c:\\users\\user\\swe40006\\task1.3\\resultgenerator\\generator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBCA4951-2406-4F02-821C-A145C2459EAB}|ResultGenerator\\ResultGenerator.csproj|solutionrelative:resultgenerator\\generator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F938D8A-9D6B-449D-8D29-D67A56F68364}|Task1.3\\Task1.3.csproj|C:\\Users\\user\\SWE40006\\Task1.3\\task1.3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5F938D8A-9D6B-449D-8D29-D67A56F68364}|Task1.3\\Task1.3.csproj|solutionrelative:task1.3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10C599BE-E70E-4238-BA10-D74BF4CA4711}|MarkingRules\\MarkingRules.csproj|c:\\users\\user\\swe40006\\task1.3\\markingrules\\evaluator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10C599BE-E70E-4238-BA10-D74BF4CA4711}|MarkingRules\\MarkingRules.csproj|solutionrelative:markingrules\\evaluator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F938D8A-9D6B-449D-8D29-D67A56F68364}|Task1.3\\Task1.3.csproj|C:\\Users\\user\\SWE40006\\Task1.3\\task1.3\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F938D8A-9D6B-449D-8D29-D67A56F68364}|Task1.3\\Task1.3.csproj|solutionrelative:task1.3\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10C599BE-E70E-4238-BA10-D74BF4CA4711}|MarkingRules\\MarkingRules.csproj|c:\\users\\user\\swe40006\\task1.3\\markingrules\\markingrules.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{10C599BE-E70E-4238-BA10-D74BF4CA4711}|MarkingRules\\MarkingRules.csproj|solutionrelative:markingrules\\markingrules.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\SWE40006\\Task1.3\\Task1.3\\Form1.cs",
+              "RelativeDocumentMoniker": "Task1.3\\Form1.cs",
+              "ToolTip": "C:\\Users\\user\\SWE40006\\Task1.3\\Task1.3\\Form1.cs [Design]",
+              "RelativeToolTip": "Task1.3\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T14:00:50.349Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ResultGenerator",
+              "DocumentMoniker": "C:\\Users\\user\\SWE40006\\Task1.3\\ResultGenerator\\ResultGenerator.csproj",
+              "RelativeDocumentMoniker": "ResultGenerator\\ResultGenerator.csproj",
+              "ToolTip": "C:\\Users\\user\\SWE40006\\Task1.3\\ResultGenerator\\ResultGenerator.csproj",
+              "RelativeToolTip": "ResultGenerator\\ResultGenerator.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-04T08:45:48.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Package.wxs",
+              "DocumentMoniker": "C:\\Users\\user\\SWE40006\\Task1.3\\Task1.3_Setup\\Package.wxs",
+              "RelativeDocumentMoniker": "Task1.3_Setup\\Package.wxs",
+              "ToolTip": "C:\\Users\\user\\SWE40006\\Task1.3\\Task1.3_Setup\\Package.wxs",
+              "RelativeToolTip": "Task1.3_Setup\\Package.wxs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAOAAAAAAAAAA==",
+              "Icon": "71fa8cad-8471-402b-834a-c68922df4385.000080|",
+              "WhenOpened": "2026-09-02T15:26:20.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ExampleComponents.wxs",
+              "DocumentMoniker": "C:\\Users\\user\\SWE40006\\Task1.3\\Task1.3_Setup\\ExampleComponents.wxs",
+              "RelativeDocumentMoniker": "Task1.3_Setup\\ExampleComponents.wxs",
+              "ToolTip": "C:\\Users\\user\\SWE40006\\Task1.3\\Task1.3_Setup\\ExampleComponents.wxs",
+              "RelativeToolTip": "Task1.3_Setup\\ExampleComponents.wxs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAGAAAAAAAAAA==",
+              "Icon": "71fa8cad-8471-402b-834a-c68922df4385.000080|",
+              "WhenOpened": "2026-09-02T15:26:23.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Task1.3_Setup.wixproj",
+              "DocumentMoniker": "C:\\Users\\user\\SWE40006\\Task1.3\\Task1.3_Setup\\Task1.3_Setup.wixproj",
+              "RelativeDocumentMoniker": "Task1.3_Setup\\Task1.3_Setup.wixproj",
+              "ToolTip": "C:\\Users\\user\\SWE40006\\Task1.3\\Task1.3_Setup\\Task1.3_Setup.wixproj",
+              "RelativeToolTip": "Task1.3_Setup\\Task1.3_Setup.wixproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-09-02T15:31:09.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Folders.wxs",
+              "DocumentMoniker": "C:\\Users\\user\\SWE40006\\Task1.3\\Task1.3_Setup\\Folders.wxs",
+              "RelativeDocumentMoniker": "Task1.3_Setup\\Folders.wxs",
+              "ToolTip": "C:\\Users\\user\\SWE40006\\Task1.3\\Task1.3_Setup\\Folders.wxs",
+              "RelativeToolTip": "Task1.3_Setup\\Folders.wxs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "71fa8cad-8471-402b-834a-c68922df4385.000080|",
+              "WhenOpened": "2026-09-04T08:32:05.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WinUniversalPackage",
+              "DocumentMoniker": "C:\\Users\\user\\SWE40006\\Task1.3\\WinUniversalPackage\\WinUniversalPackage.wapproj",
+              "RelativeDocumentMoniker": "WinUniversalPackage\\WinUniversalPackage.wapproj",
+              "ToolTip": "C:\\Users\\user\\SWE40006\\Task1.3\\WinUniversalPackage\\WinUniversalPackage.wapproj",
+              "RelativeToolTip": "WinUniversalPackage\\WinUniversalPackage.wapproj",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-09-03T08:10:07.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Package.appxmanifest",
+              "DocumentMoniker": "C:\\Users\\user\\SWE40006\\Task1.3\\WinUniversalPackage\\Package.appxmanifest",
+              "RelativeDocumentMoniker": "WinUniversalPackage\\Package.appxmanifest",
+              "ToolTip": "C:\\Users\\user\\SWE40006\\Task1.3\\WinUniversalPackage\\Package.appxmanifest",
+              "RelativeToolTip": "WinUniversalPackage\\Package.appxmanifest",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001793|",
+              "WhenOpened": "2026-09-03T08:28:47.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\user\\SWE40006\\Task1.3\\Task1.3\\Form1.cs",
+              "RelativeDocumentMoniker": "Task1.3\\Form1.cs",
+              "ToolTip": "C:\\Users\\user\\SWE40006\\Task1.3\\Task1.3\\Form1.cs",
+              "RelativeToolTip": "Task1.3\\Form1.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T14:24:23.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Generator.cs",
+              "DocumentMoniker": "C:\\Users\\user\\SWE40006\\Task1.3\\ResultGenerator\\Generator.cs",
+              "RelativeDocumentMoniker": "ResultGenerator\\Generator.cs",
+              "ToolTip": "C:\\Users\\user\\SWE40006\\Task1.3\\ResultGenerator\\Generator.cs",
+              "RelativeToolTip": "ResultGenerator\\Generator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-04T08:45:20.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Evaluator.cs",
+              "DocumentMoniker": "C:\\Users\\user\\SWE40006\\Task1.3\\MarkingRules\\Evaluator.cs",
+              "RelativeDocumentMoniker": "MarkingRules\\Evaluator.cs",
+              "ToolTip": "C:\\Users\\user\\SWE40006\\Task1.3\\MarkingRules\\Evaluator.cs",
+              "RelativeToolTip": "MarkingRules\\Evaluator.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T14:18:32.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\user\\SWE40006\\Task1.3\\Task1.3\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Task1.3\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\user\\SWE40006\\Task1.3\\Task1.3\\Form1.Designer.cs",
+              "RelativeToolTip": "Task1.3\\Form1.Designer.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwH0BAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T14:24:11.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MarkingRules.csproj",
+              "DocumentMoniker": "C:\\Users\\user\\SWE40006\\Task1.3\\MarkingRules\\MarkingRules.csproj",
+              "RelativeDocumentMoniker": "MarkingRules\\MarkingRules.csproj",
+              "ToolTip": "C:\\Users\\user\\SWE40006\\Task1.3\\MarkingRules\\MarkingRules.csproj",
+              "RelativeToolTip": "MarkingRules\\MarkingRules.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-02T14:18:41.996Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

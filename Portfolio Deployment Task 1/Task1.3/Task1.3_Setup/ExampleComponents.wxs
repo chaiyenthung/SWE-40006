@@ -1,0 +1,24 @@
+<Wix xmlns="http://wixtoolset.org/schemas/v4/wxs">
+  <Fragment>
+    <ComponentGroup Id="ExampleComponents" Directory="INSTALLFOLDER">
+		<Component Id="MainExecutable" Guid="c5e89329-4b69-444a-847a-4ae3b2897125">
+			<File Id="Task1.3.exe"
+				  Source="C:\Users\user\SWE40006\Task1.3\Task1.3\bin\Release\Task1.3.exe"
+				  KeyPath="yes" />
+		</Component>
+
+		<Component Id="MarkingRulesDLL" Guid="7fbca12b-31df-4a6c-94ba-f5cf176cdb2c">
+			<File Id="MarkingRules.dll"
+				  Source="C:\Users\user\SWE40006\Task1.3\MarkingRules\bin\Release\net462\MarkingRules.dll"
+				  KeyPath="yes" />
+		</Component>
+
+		<Component Id="ResultGeneratorDLL" Guid="98ca32b1-5dfa-4c2a-84eb-c5cf17694ba3">
+			<File Id="ResultGenerator.dll"
+				  Source="C:\Users\user\SWE40006\Task1.3\ResultGenerator\bin\Release\net462\ResultGenerator.dll"
+				  KeyPath="yes" />
+		</Component>
+		
+    </ComponentGroup>
+  </Fragment>
+</Wix>

@@ -1,0 +1,7 @@
+BuiltContentOutput	C:\Users\user\SWE40006\Task1.3\Task1.3_Setup\obj\x64\Release\en-US\cab1.cab
+BuiltPdbOutput	C:\Users\user\SWE40006\Task1.3\Task1.3_Setup\obj\x64\Release\en-US\Task1.3_Setup.wixpdb
+BuiltTargetOutput	C:\Users\user\SWE40006\Task1.3\Task1.3_Setup\obj\x64\Release\en-US\Task1.3_Setup.msi
+Input	C:\Users\user\SWE40006\Task1.3\MarkingRules\bin\Release\net462\MarkingRules.dll
+Input	C:\Users\user\SWE40006\Task1.3\ResultGenerator\bin\Release\net462\ResultGenerator.dll
+Input	C:\Users\user\SWE40006\Task1.3\Task1.3\bin\Release\Task1.3.exe
+Intermediate	C:\Users\user\SWE40006\Task1.3\Task1.3_Setup\obj\x64\Release\en-US\cab1.cab

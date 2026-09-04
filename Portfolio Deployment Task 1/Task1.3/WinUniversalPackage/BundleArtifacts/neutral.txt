@@ -1,0 +1,2 @@
+MainPackage=C:\Users\user\SWE40006\Task1.3\WinUniversalPackage\bin\AnyCPU\Release\WinUniversalPackage_1.0.3.0_AnyCPU.msix
+SymbolPackage=C:\Users\user\SWE40006\Task1.3\WinUniversalPackage\obj\Release\Symbols\WinUniversalPackage_1.0.3.0_AnyCPU.appxsym

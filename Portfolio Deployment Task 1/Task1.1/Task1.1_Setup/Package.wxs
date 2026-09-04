@@ -1,0 +1,13 @@
+﻿<Wix xmlns="http://wixtoolset.org/schemas/v4/wxs">
+	<Package Name="Task1.1_Setup"
+			   Manufacturer="Chai Yen Thung"
+			   Version="1.0.0"
+			   UpgradeCode="bc87652c-df41-477a-a532-680e9df644cb">
+
+		<MajorUpgrade DowngradeErrorMessage="!(loc.DowngradeError)" />
+
+    <Feature Id="Main">
+      <ComponentGroupRef Id="ExampleComponents" />
+    </Feature>
+  </Package>
+</Wix>

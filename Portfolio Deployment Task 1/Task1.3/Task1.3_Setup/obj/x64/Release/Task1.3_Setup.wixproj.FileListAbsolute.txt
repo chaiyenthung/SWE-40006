@@ -1,0 +1,8 @@
+C:\Users\user\SWE40006\Task1.3\Task1.3_Setup\bin\x64\Release\en-US\Task1.3_Setup.msi
+C:\Users\user\SWE40006\Task1.3\Task1.3_Setup\bin\x64\Release\en-US\cab1.cab
+C:\Users\user\SWE40006\Task1.3\Task1.3_Setup\bin\x64\Release\en-US\Task1.3_Setup.wixpdb
+C:\Users\user\SWE40006\Task1.3\Task1.3_Setup\obj\x64\Release\Task1.3_Setup.wixproj.CoreCompileInputs.cache
+C:\Users\user\SWE40006\Task1.3\Task1.3_Setup\obj\x64\Release\en-US\cab1.cab
+C:\Users\user\SWE40006\Task1.3\Task1.3_Setup\obj\x64\Release\en-US\Task1.3_Setup.msi
+C:\Users\user\SWE40006\Task1.3\Task1.3_Setup\obj\x64\Release\en-US\Task1.3_Setup.wixpdb
+C:\Users\user\SWE40006\Task1.3\Task1.3_Setup\obj\x64\Release\Task1.3_Setup.wixproj.BindTracking-en-US.txt

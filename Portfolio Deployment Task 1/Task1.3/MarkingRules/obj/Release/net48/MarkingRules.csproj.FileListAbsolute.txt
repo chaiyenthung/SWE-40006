@@ -1,0 +1,9 @@
+C:\Users\user\SWE40006\Task1.3\MarkingRules\bin\Release\net48\MarkingRules.dll
+C:\Users\user\SWE40006\Task1.3\MarkingRules\bin\Release\net48\MarkingRules.pdb
+C:\Users\user\SWE40006\Task1.3\MarkingRules\obj\Release\net48\MarkingRules.csproj.AssemblyReference.cache
+C:\Users\user\SWE40006\Task1.3\MarkingRules\obj\Release\net48\MarkingRules.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\SWE40006\Task1.3\MarkingRules\obj\Release\net48\MarkingRules.AssemblyInfoInputs.cache
+C:\Users\user\SWE40006\Task1.3\MarkingRules\obj\Release\net48\MarkingRules.AssemblyInfo.cs
+C:\Users\user\SWE40006\Task1.3\MarkingRules\obj\Release\net48\MarkingRules.csproj.CoreCompileInputs.cache
+C:\Users\user\SWE40006\Task1.3\MarkingRules\obj\Release\net48\MarkingRules.dll
+C:\Users\user\SWE40006\Task1.3\MarkingRules\obj\Release\net48\MarkingRules.pdb
