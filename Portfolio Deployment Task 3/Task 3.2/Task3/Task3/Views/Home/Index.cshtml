@@ -1,0 +1,252 @@
+﻿@model List<Task3.Models.TaskItem>
+@{
+    ViewBag.Title = "SWE40006 - C# Cloud Task Manager";
+}
+
+<style>
+    body {
+        background-color: #f4f6f9;
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    }
+
+    .app-header {
+        background: linear-gradient(135deg, #cec8ef, #b19cd9);
+        color: white;
+        padding: 24px 30px;
+        border-radius: 12px;
+        margin-top: 25px;
+        margin-bottom: 25px;
+        box-shadow: 0 4px 15px rgba(0, 120, 212, 0.2);
+    }
+
+        .app-header h2 {
+            margin: 0 0 8px 0;
+            font-weight: 600;
+            font-size: 26px;
+        }
+
+        .app-header p {
+            margin: 0;
+            opacity: 0.92;
+            font-size: 14px;
+        }
+
+    .app-card {
+        background: white;
+        border-radius: 12px;
+        padding: 22px;
+        border: 1px solid #e1e6eb;
+        box-shadow: 0 2px 10px rgba(0, 0, 0, 0.04);
+        margin-bottom: 20px;
+    }
+
+    .card-title {
+        font-size: 16px;
+        font-weight: 600;
+        color: #24292f;
+        margin-top: 0;
+        margin-bottom: 18px;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+
+    .todo-table th {
+        font-size: 12px;
+        text-transform: uppercase;
+        letter-spacing: 0.5px;
+        color: #64748b;
+        border-bottom: 2px solid #f1f5f9 !important;
+        font-weight: 600;
+        padding: 12px 14px !important;
+    }
+
+    .todo-table td {
+        vertical-align: middle !important;
+        padding: 14px !important;
+        border-top: 1px solid #f1f5f9 !important;
+    }
+
+    /* Status Pills */
+    .status-pill {
+        display: inline-block;
+        padding: 4px 12px;
+        border-radius: 20px;
+        font-size: 12px;
+        font-weight: 600;
+    }
+
+    .status-completed {
+        background-color: #e6f7ed;
+        color: #0f8644;
+    }
+
+    .status-progress {
+        background-color: #fff6e5;
+        color: #b56e00;
+    }
+
+    .status-pending {
+        background-color: #f1f5f9;
+        color: #475569;
+    }
+
+    /* Action Buttons */
+    .btn-status-cycle {
+        background-color: #f8fafc;
+        border: 1px solid #cbd5e1;
+        color: #334155;
+        padding: 5px 12px;
+        border-radius: 6px;
+        font-size: 12px;
+        font-weight: 500;
+        transition: all 0.2s ease;
+    }
+
+        .btn-status-cycle:hover {
+            background-color: #0078d4;
+            border-color: #0078d4;
+            color: white;
+        }
+
+    .btn-delete-cross {
+        background: #fee2e2;
+        border: 1px solid #fecaca;
+        color: #dc2626;
+        width: 30px;
+        height: 30px;
+        border-radius: 50%;
+        font-size: 14px;
+        font-weight: bold;
+        line-height: 28px;
+        text-align: center;
+        padding: 0;
+        margin-left: 6px;
+        transition: all 0.2s ease;
+    }
+
+        .btn-delete-cross:hover {
+            background: #dc2626;
+            border-color: #dc2626;
+            color: white;
+            transform: scale(1.08);
+        }
+
+    .task-done {
+        text-decoration: line-through;
+        color: #94a3b8 !important;
+    }
+</style>
+
+<!-- Banner Header -->
+<div class="app-header">
+    <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
+        <div>
+            <h2>SWE40006 — Cloud Task Manager</h2>
+            <p>Interactive C# MVC Application | Student ID: <strong>@ViewBag.StudentID</strong></p>
+        </div>
+        <div style="text-align: right; font-size: 13px; opacity: 0.95;">
+            <span>☁️ Azure Cloud Host</span><br />
+            <span>🕒 @ViewBag.ServerTime</span>
+        </div>
+    </div>
+</div>
+
+<div class="row">
+    <!-- Left Column: Add Task Card -->
+    <div class="col-md-4">
+        <div class="app-card">
+            <h4 class="card-title">Add New Task</h4>
+            @using (Html.BeginForm("AddTask", "Home", FormMethod.Post))
+            {
+                <div class="form-group" style="margin-bottom: 16px;">
+                    <label style="font-size: 13px; color: #475569; font-weight: 500;">Task Name</label>
+                    <input type="text" name="taskTitle" class="form-control"
+                           placeholder="e.g. Verify Azure Log Stream"
+                           required
+                           style="border-radius: 8px; border: 1px solid #cbd5e1; padding: 10px 12px; height: auto;" />
+                </div>
+                <button type="submit" class="btn btn-block"
+                        style="background-color: #b19cd9; color: white; border-radius: 8px; font-weight: 500; padding: 10px; ">
+                    + Add To-Do Item
+                </button>
+            }
+        </div>
+    </div>
+
+    <!-- Right Column: Task List Table Card -->
+    <div class="col-md-8">
+        <div class="app-card">
+            <div class="card-title">
+                <span>Task Checklist</span>
+                <span style="font-size: 13px; color: #64748b; font-weight: normal;">Total: @(Model != null ? Model.Count : 0)</span>
+            </div>
+
+            @if (Model == null || !Model.Any())
+            {
+                <div style="text-align: center; padding: 40px 20px; color: #94a3b8;">
+                    <p style="font-size: 15px;">No active tasks. Create one using the form on the left!</p>
+                </div>
+            }
+            else
+            {
+                <div class="table-responsive">
+                    <table class="table todo-table">
+                        <thead>
+                            <tr>
+                                <th style="width: 5%;">#</th>
+                                <th style="width: 50%;">Task Description</th>
+                                <th style="width: 25%;">Status</th>
+                                <th style="width: 20%; text-align: right;">Action</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var task in Model)
+                            {
+                                <tr>
+                                    <td style="color: #94a3b8; font-weight: 500;">@task.Id</td>
+                                    <td>
+                                        <span class="@(task.Status == "Completed" ? "task-done" : "")" style="font-weight: 500; color: #1e293b;">
+                                            @task.Title
+                                        </span>
+                                    </td>
+                                    <td>
+                                        @if (task.Status == "Completed")
+                                        {
+                                            <span class="status-pill status-completed">Completed</span>
+                                        }
+                                        else if (task.Status == "In Progress")
+                                        {
+                                            <span class="status-pill status-progress">In Progress</span>
+                                        }
+                                        else
+                                        {
+                                            <span class="status-pill status-pending">Pending</span>
+                                        }
+                                    </td>
+                                    <td style="text-align: right; white-space: nowrap;">
+                                        <!-- Cycle Status Button -->
+                                        @using (Html.BeginForm("ChangeStatus", "Home", new { id = task.Id }, FormMethod.Post, new { style = "display:inline;" }))
+                                        {
+                                            <button type="submit" class="btn-status-cycle" title="Click to cycle status">
+                                                Change Status ⟳
+                                            </button>
+                                        }
+
+                                        <!-- Delete Button (Cross Icon Only) -->
+                                        @using (Html.BeginForm("DeleteTask", "Home", new { id = task.Id }, FormMethod.Post, new { style = "display:inline;" }))
+                                        {
+                                            <button type="submit" class="btn-delete-cross" title="Delete Task" onclick="return confirm('Delete this task?');">
+                                                ✕
+                                            </button>
+                                        }
+                                    </td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                </div>
+            }
+        </div>
+    </div>
+</div>
